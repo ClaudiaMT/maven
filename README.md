@@ -1,2 +1,2 @@
 # maven
-Arhitecturi orientate pe servicii - Maven tests
+Arhitecturi orientate pe servicii - Maven test
